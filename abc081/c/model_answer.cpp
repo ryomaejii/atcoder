@@ -39,6 +39,7 @@ void _main()
   }
   else
   {
+    int a = 'hoge';
     int ans = 0;
     rep(i, 0, n - K) ans += v[i];
     printf("%d\n", ans);
