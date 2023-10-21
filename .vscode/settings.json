@@ -26,7 +26,8 @@
     "unordered_set": "cpp",
     "valarray": "cpp",
     "ranges": "cpp",
-    "stacktrace": "cpp"
+    "stacktrace": "cpp",
+    "algorithm": "cpp"
   },
   "C_Cpp.errorSquiggles": "disabled",
   // skipped
