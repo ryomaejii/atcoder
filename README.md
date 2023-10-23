@@ -49,4 +49,8 @@ num[i] := 値 i が何個あるかを判定する方法。
 参考: https://algo-method.com/descriptions/114
 問題: abc325/c
 
+### 深さ優先探索
+
+https://qiita.com/e869120/items/25cb52ba47be0fd418d6#3-3-%E5%86%8D%E5%B8%B0%E9%96%A2%E6%95%B0%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E5%85%A8%E6%8E%A2%E7%B4%A2
+
 ### 動的計画法
