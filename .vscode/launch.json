@@ -12,7 +12,8 @@
       "program": "${fileDirname}/${fileBasenameNoExtension}",
       "args": [],
       "cwd": "${fileDirname}/",
-      "preLaunchTask": "g++ build active file"
+      "preLaunchTask": "g++ build active file",
+      "externalConsole": true
     }
   ]
 }
