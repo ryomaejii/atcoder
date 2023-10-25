@@ -3,10 +3,10 @@ using namespace std;
 
 #define rep(i, j, n) for (int i = j; (i) < (n); ++(i))
 
-// int X;
+// int N;
 
 int main()
 {
-  // cin >> X;
+  // cin >> N;
   // cout << answer << endl;
 }
