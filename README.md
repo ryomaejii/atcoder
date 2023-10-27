@@ -58,4 +58,8 @@ https://qiita.com/e869120/items/25cb52ba47be0fd418d6#3-3-%E5%86%8D%E5%B8%B0%E9%9
 ビットシフト演算子を利用してマスクする方法
 https://qiita.com/drken/items/7c6ff2aa4d8fce1c9361
 
+## bit 全探索
+
+https://drken1215.hatenablog.com/entry/2019/12/14/171657
+
 ### 動的計画法
