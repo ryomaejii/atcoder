@@ -1,32 +1,32 @@
 #include <bits/stdc++.h>
 using namespace std;
+#define rep(i, a, b) for (int i = a; i < b; i++)
 
+typedef long long ll;
+string S;
+int N;
+//-----------------------------------------------------------------
 int main()
 {
-  string S;
-  int ans = 0;
-
   cin >> S;
-  int size = S.size() - 1;
+  N = S.length();
 
-  // +が入るのはs.size() - 1箇所
-  for (int bit = 0; bit < (1 << size); ++bit)
+  ll ans = 0;
+  rep(i, 0, 1 << (N - 1))
   {
-    string tmp = S[0];
-
-    for (int i = 0; i < size; ++i)
+    ll sm = 0;
+    ll a = S[0] - '0';
+    rep(j, 0, N - 1)
     {
-      if (bit & (1 << i))
+      if (i & (1 << j))
       {
-        ans = ans + tmp - "0";
-        tmp = S[i + 1];
+        sm += a;
+        a = 0;
       }
-      else
-      {
-        tmp += S[i + 1];
-      }
+      a = a * 10 + S[j + 1] - '0';
     }
+    sm += a;
+    ans += sm;
   }
-
   cout << ans << endl;
 }
