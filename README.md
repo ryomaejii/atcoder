@@ -20,6 +20,9 @@ https://qiita.com/drken/items/fd4e5e3630d0f5859067#%E7%AC%AC-1-%E5%95%8F--abc-08
 おすすめ問題を解き終わったら大会に参加しつつ、蟻本を進めていく。
 https://qiita.com/drken/items/e77685614f3c6bf86f44
 
+まだ全然、全探索の応用問題をサッと解くことができなかったので以下の問題集をやる
+https://qiita.com/e869120/items/25cb52ba47be0fd418d6#3-2-%E9%A0%86%E5%88%97%E5%85%A8%E6%8E%A2%E7%B4%A2
+
 ## 参考
 
 - c++の基本的な型や関数: https://somachob.com/basic-cpp/
