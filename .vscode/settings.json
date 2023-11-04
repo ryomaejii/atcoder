@@ -27,7 +27,8 @@
     "valarray": "cpp",
     "ranges": "cpp",
     "stacktrace": "cpp",
-    "algorithm": "cpp"
+    "algorithm": "cpp",
+    "ostream": "cpp"
   },
   "C_Cpp.errorSquiggles": "disabled",
   // skipped
