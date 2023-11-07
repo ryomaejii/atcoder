@@ -69,4 +69,9 @@ https://drken1215.hatenablog.com/entry/2019/12/14/171657
 
 ## 便利な関数
 
-- next_permutation: 順列全探索を簡単にやってくれる関数(0,1,2 -> 0,2,1 -> 1,0,2)
+詳しくはこちら
+https://qiita.com/e869120/items/518297c6816adb67f9a5
+
+### next_permutation
+
+順列全探索を簡単にやってくれる関数(0,1,2 -> 0,2,1 -> 1,0,2)
