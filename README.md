@@ -56,13 +56,17 @@ num[i] := 値 i が何個あるかを判定する方法。
 
 https://qiita.com/e869120/items/25cb52ba47be0fd418d6#3-3-%E5%86%8D%E5%B8%B0%E9%96%A2%E6%95%B0%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E5%85%A8%E6%8E%A2%E7%B4%A2
 
-## ビットマスク（マスクビット）
+### ビットマスク（マスクビット）
 
 ビットシフト演算子を利用してマスクする方法
 https://qiita.com/drken/items/7c6ff2aa4d8fce1c9361
 
-## bit 全探索
+### bit 全探索
 
 https://drken1215.hatenablog.com/entry/2019/12/14/171657
 
 ### 動的計画法
+
+## 便利な関数
+
+- next_permutation: 順列全探索を簡単にやってくれる関数(0,1,2 -> 0,2,1 -> 1,0,2)
