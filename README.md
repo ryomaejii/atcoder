@@ -23,6 +23,9 @@ https://qiita.com/drken/items/e77685614f3c6bf86f44
 まだ全然、全探索の応用問題をサッと解くことができなかったので以下の問題集をやる
 https://qiita.com/e869120/items/25cb52ba47be0fd418d6#3-2-%E9%A0%86%E5%88%97%E5%85%A8%E6%8E%A2%E7%B4%A2
 
+再帰関数を用いた方法についての解説は以下を参考に（練習問題もあるので時間がある時に解くと良さそう）
+https://qiita.com/drken/items/23a4f604fa3f505dd5ad
+
 ## 参考
 
 - c++の基本的な型や関数: https://somachob.com/basic-cpp/
