@@ -26,6 +26,9 @@ https://qiita.com/e869120/items/25cb52ba47be0fd418d6#3-2-%E9%A0%86%E5%88%97%E5%8
 再帰関数を用いた方法についての解説は以下を参考に（練習問題もあるので時間がある時に解くと良さそう）
 https://qiita.com/drken/items/23a4f604fa3f505dd5ad
 
+dfs の幾つかの例があるので、以下を参考にテンプレート化するのが良さそう。
+https://franknyro.github.io/blog/archives/202005031749/
+
 ## 参考
 
 - c++の基本的な型や関数: https://somachob.com/basic-cpp/
