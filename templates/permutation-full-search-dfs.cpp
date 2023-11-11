@@ -20,6 +20,7 @@ vector<int> permutation;
 
 void dfs(int depth, int size, int min, int max)
 {
+  // depthがsizeに達したら出力
   if (depth == size)
   {
     for (int i = 0; i < depth; i++)
@@ -28,6 +29,10 @@ void dfs(int depth, int size, int min, int max)
     }
     cout << endl;
   }
+  // そうでなければ、minからmaxまでの数をdepth番目に入れて再帰
+  // 最初はdepth=0なので、minからmaxまでの数を0番目に入れて再帰
+  // その次はdepth=1なので、minからmaxまでの数を1番目に入れて再帰
+  // というように、depthがsizeに達するまで再帰
   else
   {
     for (int i = min; i <= max; i++)
