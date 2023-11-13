@@ -29,6 +29,9 @@ https://qiita.com/drken/items/23a4f604fa3f505dd5ad
 dfs の幾つかの例があるので、以下を参考にテンプレート化するのが良さそう。
 https://franknyro.github.io/blog/archives/202005031749/
 
+累積和についても勉強する
+https://qiita.com/drken/items/56a6b68edef8fc605821
+
 ## 参考
 
 - c++の基本的な型や関数: https://somachob.com/basic-cpp/
