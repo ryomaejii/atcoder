@@ -32,6 +32,9 @@ https://franknyro.github.io/blog/archives/202005031749/
 累積和についても勉強する
 https://qiita.com/drken/items/56a6b68edef8fc605821
 
+しばらくは「競技プログラミングの鉄則」をやる
+https://atcoder.jp/contests/tessoku-book
+
 ## 参考
 
 - c++の基本的な型や関数: https://somachob.com/basic-cpp/
